@@ -14,17 +14,16 @@ Tenho 18 anos, sou desenvolvedor PHP e JS, e amo o universo que a tecnologia me 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Mongodb](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Mongodb](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
   **Aplicações**
 
@@ -36,6 +35,7 @@ Tenho 18 anos, sou desenvolvedor PHP e JS, e amo o universo que a tecnologia me 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
   **Ferramentas de Desenvolvimento**
 
@@ -64,7 +64,7 @@ Tenho 18 anos, sou desenvolvedor PHP e JS, e amo o universo que a tecnologia me 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software. Aprendendo sobre o mundo.
 - 🎓 &nbsp; Estudando **Redes de Computadores** na <a href="https://www.quixada.ufc.br/">UFC, campus Quixadá</a>.
 <!-- - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a> -->
-- 🌱 &nbsp; Aprendendo mais sobre **Laravel, Angular, Docker, Vue** e outras tecnologias, frameworks e bibliotecas.
+- 🌱 &nbsp; Aprendendo mais sobre **Laravel, Angular, Python, Vue, Docker** e outras tecnologias, frameworks e bibliotecas.
 
 ### Onde me encontrar:
 
