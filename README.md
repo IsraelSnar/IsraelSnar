@@ -68,7 +68,7 @@ Tenho 18 anos, sou desenvolvedor PHP e JS, e amo o universo que a tecnologia me 
 
 ### Onde me encontrar:
 
-[![Linkedin: Israel Narciso](https://img.shields.io/badge/-Israel_Narciso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israel-narciso-0a8272166/)](https://www.linkedin.com/in/israel-narciso-0a8272166/)
+[![Linkedin: Israel Narciso](https://img.shields.io/badge/-Israel_Narciso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israelsnarciso/)](https://www.linkedin.com/in/israelsnarciso/)
 [![Gmail](https://img.shields.io/badge/-israelsnar@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:israelsnar@gmail.com)](mailto:israelsnar@gmail.com)
 [![GitHub](https://img.shields.io/badge/-IsraelSnar-white?label=GitHub&style=flat-square&logo=Github&logoColor=white)](https://github.com/IsraelSnar)
 
