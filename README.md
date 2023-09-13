@@ -4,7 +4,7 @@
 <br/>
 
 <p align="left">
-Tenho 18 anos, sou desenvolvedor PHP e JS, e amo o universo que a tecnologia me permite viver: Penso, Projeto e Crio. Sou formado como técnico pela escola profissionalizante estadual do Ceará. Meu foco é desenvolvimento de sistemas voltados para Web (Full-Stack), estou cursando ensino superior tecnólogo em Redes de Computadores, atualmente 3° semestre.
+Tenho 20 anos, sou desenvolvedor PHP e JS, e amo o universo que a tecnologia me permite viver: Penso, Projeto e Crio. Sou formado como técnico pela escola profissionalizante estadual do Ceará. Meu foco é desenvolvimento de sistemas voltados para Web (Full-Stack), estou cursando ensino superior tecnólogo em Redes de Computadores, atualmente 6° semestre.
 </p>
 
 ## 🚀 Minhas Skills
@@ -63,8 +63,8 @@ Tenho 18 anos, sou desenvolvedor PHP e JS, e amo o universo que a tecnologia me 
 ## Um pouco sobre mim
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software. Aprendendo sobre o mundo.
 - 🎓 &nbsp; Estudando **Redes de Computadores** na <a href="https://www.quixada.ufc.br/">UFC, campus Quixadá</a>.
-<!-- - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a> -->
 - 🌱 &nbsp; Aprendendo mais sobre **Laravel, Angular, Python, Vue, Docker** e outras tecnologias, frameworks e bibliotecas.
+<!-- - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a> -->
 
 ### Onde me encontrar:
 
